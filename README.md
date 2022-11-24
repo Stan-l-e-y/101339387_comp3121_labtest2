@@ -1,1 +1,1 @@
-(src/assets/images/toronto.jpg)
+(./src/assets/images/toronto.jpg)
